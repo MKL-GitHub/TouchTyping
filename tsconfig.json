@@ -1,0 +1,9 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "ES2022",
+        "removeComments": true,
+        "outDir": "js",
+        // "outFile": "main.js"
+    }
+}
